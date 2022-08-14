@@ -6,3 +6,5 @@ Task-1 Number Guessing Game: In this game the user has to guess the number rando
 
 Language used- Python
 IDE- Visual Studio Code
+
+![Screenshot (5409)](https://user-images.githubusercontent.com/108586386/184544808-82bfbb0d-9044-44a8-abaa-72ad08ba3a6d.png)
